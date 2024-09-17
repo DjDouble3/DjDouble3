@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @DjDouble3
+- 👀 I’m interested in learning about the cyber and cloud security fields ...
+- 🌱 I’m currently working on my network+ cert ...
+- ⚡ Fun fact: I used to do lobster diving in Florida...
+
+<!---
+DjDouble3/DjDouble3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
